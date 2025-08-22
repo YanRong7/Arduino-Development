@@ -7,3 +7,5 @@ Device: <br>
 •	火焰感測器 <br>
 •	Mirotek LCD 1602 I2C 顯示模組
 
+<img width="2034" height="1434" alt="image" src="https://github.com/user-attachments/assets/b4b0b234-8c68-4de0-b1d9-7dad244bc756" />
+<img width="1477" height="1108" alt="image" src="https://github.com/user-attachments/assets/e8508a7f-4ae6-48dc-9aa5-487c39d5025a" />
