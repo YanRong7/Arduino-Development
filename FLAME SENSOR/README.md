@@ -2,8 +2,8 @@
 然後把火焰的亮度轉化為高低變化的電平信號，輸入到中央處理器，中央處理器根據信號的變化做出相應的程式處理。
 
 Device: <br>
-•	Arduino Uno R3
-•	USB 傳輸線
-•	火焰感測器
+•	Arduino Uno R3 <br>
+•	USB 傳輸線 <br>
+•	火焰感測器 <br>
 •	Mirotek LCD 1602 I2C 顯示模組
 
